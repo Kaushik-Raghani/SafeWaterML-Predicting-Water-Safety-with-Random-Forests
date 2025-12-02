@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # SafeWaterML: Predicting Water Safety with Random Forests
 
@@ -58,3 +59,6 @@ Contributions to this project are welcome! If you have ideas for improvements or
 LinkedIn: kaushik-raghani
 
 Email: kaushikraghani23@gmail.com
+=======
+# SafeWaterML-Predicting-Water-Safety-with-Random-Forests
+>>>>>>> 3fab0306420582eb03c4936c6229f7082aa1ca0c
